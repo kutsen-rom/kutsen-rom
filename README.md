@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://www.codewars.com/users/kutsen-rom/badges/large
+
+![kutsen-rom's Codewars stats]([http://url/to/img.png](https://www.codewars.com/users/kutsen-rom/badges/large))
+
 
 <!--
 **kutsen-rom/kutsen-rom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
