@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![kutsen-rom's Codewars stats]([http://url/to/img.png](https://www.codewars.com/users/kutsen-rom/badges/large))
+
+![kutsen-rom's Codewars stats](https://www.codewars.com/users/kutsen-rom/badges/large)
 
 
 <!--
